@@ -1,0 +1,37 @@
+
+@media (min-width: 768px){ 
+
+.show-and-hide-nav {
+    }
+}       
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.nav-column{
+    justify-content: right;
+}
+
+.material-symbols-outlined {
+  'FILL' 1,
+  'wght' 700,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+.navbar-brand {
+    font-size: 40px;
+}
+
+.listgroup {
+    background-color: black;
+}
+
+
+.myclass {
+    background-color: white;
+}
